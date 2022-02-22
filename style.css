@@ -83,7 +83,7 @@ nav a.current {
 }
 
 .banner-accueil, .banner-galerie {
-	background: url(../images/banner1.jpg) no-repeat center center;
+	background: url(images/banner1.jpg) no-repeat center center;
 	background-size: cover;	
 	padding: 10rem 3rem;	
 	text-align: center;
@@ -223,7 +223,7 @@ article img {
 /*   PAGE GALERIE   */
 
 .banner-galerie {
-	background: url(../images/banner2.jpg) no-repeat center center;
+	background: url(images/banner2.jpg) no-repeat center center;
 	background-size: cover;
 }
 .galerie {
